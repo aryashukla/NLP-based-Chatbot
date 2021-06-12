@@ -7,3 +7,4 @@ Dataset is uploaded in cornell movie-dialogs corpus folder and code is in Main_c
 The code is upto preprocess the dataset and train the chatbot on that preprocesed data. To use the bot for chatting weights needs to be generated which can be done after complete training.
 
 In order to use the GPU for training use tensorflow version campatible with corresponding cuda version.
+Compatibilty can be checked from Tensorflow GPU support documentation.
